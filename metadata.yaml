@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1635
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Hopkins_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22196#Little-Miss-Grouch--13-A-Narrative-Based-on-the-Log-of-Alexander-Forsyth-Smith-s-Maiden-Trans_
 gutenberg_issued: '2007-08-01'
 gutenberg_type: Text
 identifiers:
